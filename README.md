@@ -1,6 +1,6 @@
 # Tensor_Flow
 
-Working full-time slowed my pace with the webscraping projects but now that it is done... AUGUST IS TENSORFLOW MONTH! <\br>
+Working full-time slowed my pace with the webscraping project but now that it is done... AUGUST IS TENSORFLOW MONTH! <\br>
 I'm super excited to play around with some machine learning packages. I am going to be spending a lot of time on the math behind machine learning <\br>
 but don't want to wait until my later courses before working with these fun tools. <\br>
 <\br>
