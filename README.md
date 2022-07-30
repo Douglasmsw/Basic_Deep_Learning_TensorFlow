@@ -1,8 +1,9 @@
 # Tensor_Flow
 
-I'm still working on the front end interaction shell for the course feedback web-scraping project as class pre-registration is in mid-August so wanna get
-it ready for then. But I plan to finish (or step away for a bit) when July 2022 ends and start playing with TensorFlow! 
+Working full-time slowed my pace with the webscraping projects but now that it is done... AUGUST IS TENSORFLOW MONTH! <\br>
+I'm super excited to play around with some machine learning packages. I am going to be spending a lot of time on the math behind machine learning <\br>
+but don't want to wait until my later courses before working with these fun tools. <\br>
+<\br>
+I will be posting tutorials and small projects in this repository as I go, with the hope to do a larger project / analysis before school starts <\br>
+back up in later September. 
 
-This repository is to remind me to get started come August, but I doubt I'll need the reminder. I'm SUPER excited to be diving deeper into the math behind machine learning this year in school and want to start playing with the application side ASAP!
-
-Anyways, more to come as I do some tutorials and invent a project for this.
